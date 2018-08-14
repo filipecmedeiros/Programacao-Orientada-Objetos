@@ -1,0 +1,7 @@
+Desenvolvimento do modelo de classes (model) de um sistema de varejo simples em UML:
+
+Requisitos:
+RF01 - O sistema deve permitir o cadastramento de grupos de produtos.
+RF02 - O sistema deve permitir o cadastramento de produtos com seu código, descrição, preço e grupo ao qual o pertence produto.
+RF03 - O sistema deve permitir abrir um novo pedido e adicionar itens a esse pedido. Os item serão adicionados buscando-se produtos baseando-se no nome do produto ou no grupo ao qual ele pertence e indicando a quantidade desejada do produto. Ao finalizar a adição de produtos o sistema deve permitir o fechamento do pedido.
+RF04 - O sistema deve permitir a listagem dos pedidos baseado em um intervalo de data mostrando um relatório gerancial sobre as vendas.
