@@ -1,0 +1,1 @@
+Importante verificar o que é entendido como manutenção de software, suas classificações antes de seguir investigando as premissas. O documento do IEEE possui o que a engenharia de software considera o conceito padrão. Ainda, o foco aqui é: Como a Programação Orientada a Objetos contribui para esse cenário?
